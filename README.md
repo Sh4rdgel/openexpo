@@ -88,6 +88,9 @@ ExpoClient 是由来自**美利坚留学生**蔡子豪(又称精神美利坚人)
 <p align="center">
   <img src="./img/question.jpg" alt="1" width="50%" />
 </p>
+<p align="center">
+  <img src="./img/how2enablemyaubps.png" alt="1" width="50%" />
+</p>
 
 ### 蔡子豪之阴谋论
 早期的精神美利坚人刚开始写端时，外挂惨遭破解。后来发布了一条[视频](https://www.bilibili.com/video/BV11KN56AEQ1)回应外挂被破解的事实，在视频中其专业知识的匮乏让笔者为此人的智商感到堪忧。在没有拿出绝对证据的情况下仅凭加了vmp壳和沙盒的静态分析就推断出破解程序具有后门的结论(**哪怕即使真的有，也不应该以次就得出结论**)。
